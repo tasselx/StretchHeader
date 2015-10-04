@@ -3,4 +3,4 @@
 ScreenShot
 ---------
 
-![gif](./ScreenShot/Stretch.gif)
+![gif](https://github.com/tasselx/StretchHeader/blob/master/ScreenShot/Stretch.gif?raw=true)
